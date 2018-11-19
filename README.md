@@ -1,17 +1,12 @@
-<h3 align="center">Nepxion Discovery UI</h2>
-<p align="center">
- <img src="https://tokei.rs/b1/github/Nepxion/DiscoveryUI?category=lines" alt="Total lines">
- <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license" alt="License">
-</p>
+# Nepxion DiscoveryUI
+[![Total lines](https://tokei.rs/b1/github/Nepxion/DiscoveryUI?category=lines)](https://github.com/Nepxion/Discovery)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license)](https://github.com/Nepxion/Discovery/blob/master/LICENSE)
 
 ## 简介
 
 Nepxion DiscoveryUI is a web framework based on Vue for Nepxion Discovery project [http://www.nepxion.com](http://www.nepxion.com/)
 
-## Nepxion Discovery
-
-- [项目源码](https://github.com/Nepxion/DiscoveryUI)
-- [入门教程](https://github.com/Nepxion/Docs/blob/master/discovery-doc/README_QUICK_START.md)
+参考[入门教程](https://github.com/Nepxion/Docs/blob/master/discovery-doc/README_QUICK_START.md)
 
 ## 准备工作
 
@@ -19,7 +14,7 @@ Nepxion DiscoveryUI is a web framework based on Vue for Nepxion Discovery projec
 - vue-cli 脚手架构建工具
 - cnpm npm的淘宝镜像
 
-## Build Setup
+## 编译运行
 
 ``` bash
 # install dependencies
@@ -43,7 +38,9 @@ npm run build --report
 
 ## 界面展示
 
-![拓扑图](/images/screenshot-1.png)
+![拓扑图](/images/screenshot-1-1.jpg)
+
+![拓扑图](/images/screenshot-1-2.jpg)
 
 ![灰度路由](/images/screenshot-2.png)
 
